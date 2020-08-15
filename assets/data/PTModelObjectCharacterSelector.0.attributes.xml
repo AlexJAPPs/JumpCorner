@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2464</string>
+                <key>className</key>
+                <string>PTModelObjectCharacterSelector</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Selector</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{230.035,667.713}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Name</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>4</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1000</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
